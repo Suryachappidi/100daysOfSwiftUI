@@ -1,3 +1,7 @@
-# WeSplit
+# 100Days of SwiftUI 
 
-<img src="https://github.com/Suryachappidi/WeSplit/blob/master/WeSplit/screenshot.png" data-canonical-src="https://github.com/Suryachappidi/WeSplit/blob/master/WeSplit/screenshot.png" width="200" height="400" />
+## WeSplit
+<img  width="200" src="WeSplit/screenshot.png">
+
+## Guess the Flag
+<img  width="200" src="Guess the Country/app.png">
